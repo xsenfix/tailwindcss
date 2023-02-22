@@ -1,0 +1,11 @@
+node -v
+npx add -D tailwindcss postcss
+yarn 
+
+
+
+border-b-2 - нижнее подчеркивание снизу в 2 пикселя
+brorder-transperent - обесчвечивание
+mb-1 -margin bottom
+
+rounded-left-leftg - скругление углов
